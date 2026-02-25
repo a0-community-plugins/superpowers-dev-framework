@@ -1,0 +1,6 @@
+name: Superpowers
+description: Composable development workflow skills with auto-triggering TDD, systematic debugging, brainstorming, and subagent-driven development.
+version: 1.0.0
+settings_sections: []
+per_project_config: true
+per_agent_config: false
